@@ -1,0 +1,34 @@
+<resources>
+    <string-array name="colorLargeBottom">
+        <item>#e4dd1d</item>
+        <item>@string/tap_to_start</item>
+        <item>#ffffff</item>
+    </string-array>
+
+    <string-array name="colorRed">
+        <item>#f02923</item>
+        <item>@string/red</item>
+    </string-array>
+
+    <string-array name="colorGreen">
+        <item>#2ca53a</item>
+        <item>@string/green</item>
+    </string-array>
+
+    <string-array name="colorBlue">
+        <item>#157ef2</item>
+        <item>@string/blue</item>
+    </string-array>
+
+    <string-array name="colorYellow">
+        <item>#feeb16</item>
+        <item>@string/yellow</item>
+    </string-array>
+
+    <string-array name="colorGrey">
+        <item>#8c8c8c</item>
+        <item>@string/grey</item>
+    </string-array>
+
+
+</resources>
