@@ -125,6 +125,11 @@ public class BaseActivity extends Activity {
                 }
             }
 
+            @Override
+            public void onLoggingImpression(Ad ad) {
+                
+            }
+
         });
         if (DEBUG) {
             //            AdSettings.addTestDevice("7d7fcc8ff3a053e48671f85990f1ab6d");//nexus 5
